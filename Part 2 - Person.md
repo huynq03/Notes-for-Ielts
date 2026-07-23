@@ -12,7 +12,15 @@
 ###### And explain you think why his/her ideas are interesting
 
 
+As I read this topic, there is one person that popped into my mind. So, the person I’m going to talk about today is **Duc**, who is a close friend of mine. We've been friends for many years, and he’s very **supportive and energetic**. We get along really well with each other, so whenever we get together, we can **talk about virtually everything under the sun**.
 
+A few months ago, I set a goal to improve my physical fitness by playing badminton, which was **actually quite challenging** for me. To be honest, **I struggled quite a bit** when learning the footwork, so it took me a long time to **hit my stride** on the court.
+
+Seeing my struggle, Duc **lent me a helping hand**. We practiced together every weekend. He guided me through the basic skills and corrected my smashing techniques patiently. One thing he always emphasized was that I should focus on running fast and not be afraid of making mistakes.
+
+Thanks to his motivation, I made noticeable progress. I didn’t exactly improve **in leaps and bounds** at first, but little by little, I became much more confident and could **play at length** without feeling exhausted.
+
+Last month, we joined a friendly match in my neighborhood. I followed his advice, and in the end, **all my hard work paid off** because we won the second prize. I was incredibly happy. Without his encouragement, I don't think I would have achieved my goal.
 ## Elon Musk
 Okay, / as soon as I read the topic, / the first person that **POPPED INTO MY MIND** / was **ELON MUSK**. // So / I'm going to talk about him. //
 

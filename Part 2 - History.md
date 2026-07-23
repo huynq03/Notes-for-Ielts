@@ -15,6 +15,12 @@ gradually become more curious
 difficult , lived in poverty, families were separated
 make hue sacrifices
 
+I'd like to talk about the Vietnam War period, which lasted for many years before the country was finally joined together in 1975.
+I first learned about it when I was a student through my History classes. At first, I was a bit slow on the uptake because I found the lessons quite difficult. However, things changed when we watched some historical videos and old movies about that time. Because these videos showed real life images, history became much more emotional and real to me, instead of just reading boring facts in a textbook.
+From what I know, life back then was extremely difficult. **The war caused heavy damage, families were separated, and many people lived in poverty.** Almost everyone had to make big sacrifices. But despite these difficulties, I was surprised to see that people still stayed very hopeful.
+The main reason I want to know more about this period is to understand how ordinary people could be so strong. Instead of just learning about big battles, I want to know how they actually lived back then. I believe that learning about history helps me appreciate the peaceful life we have today, and reminds me not to take it for granted.
+
+
 I'd like to talk about the Vietnam War period, which lasted for many years before the country was ==reunited in 1975.==
 
 I first learned about it when I was a student through my History classes. At first, I was a bit slow on the uptake because I found the lessons quite difficult. However, things changed when we watched some historical videos and old movies about that time. Because these videos showed real life images, history became much more emotional and real to me, instead of just reading boring facts in a textbook.

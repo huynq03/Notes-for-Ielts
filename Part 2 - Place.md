@@ -1,0 +1,7 @@
+So today I want to talk about a trip I took to Haifong City with my buddies. It was many months ago, back when I was still at university. We just finished our evaluation project and everyone was feeling completely exhausted. We decided to take a short break after a hectic schedule. So it's a great way to recharge our batteries and blow off steam. And Haifong City was the perfect destination.
+
+We booked a small homestay in the city center. It wasn't luxurious by any means, but it was beautifully decorated with urban furniture and lots of flowers in a small garden. We made the place feel really cozy. The weather was cool and comfortable and we spent a lot of time wandering around the city center instead of staying at home. 
+
+One thing that took me by surprise was the hospitality of the locals. Unlike Hanoi, where people are often super busy and focus on their own lives. The local people in Haifang Haifong are incredibly straightforward and welcoming. They really made me feel right at home. Of course, we spent a lot of time trying local dishes and enjoying the street food. Haifang Haifong City is famous for fresh seafood and one of  my favorite foods to eat is crab . 
+
+Besides that the bengaku and  banh mika are really delicious. And they are definitely some of my favorite foods now.
