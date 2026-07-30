@@ -36,3 +36,40 @@ For example, students from rural areas in Vietnam often opt to move to HCM or HN
 **I mean, young kids can absorb a new language very naturally without much effort.**
 
 **For example, children can learn and remember new vocabulary quickly just by playing fun games or listening to stories.**
+
+![[Pasted image 20260727202718.png]]
+
+![[Pasted image 20260727202854.png]]
+![[Pasted image 20260727203110.png]]well, there are several issues related to accommodation in Vietnam. 
+However main problem with accommodation is that the increasingly high rental prices. many people tend to go to the big city to work or study there for ....
+
+
+What are the housing problems that exist in your country/major cities?  
+  
+- General statement: Well, There are several issues related to accommodation in Vietnam.  
+  
+- Indentify problems:  However, I strongly believe that the biggest problem is the increasingly high property prices/rental prices  
+  
+- Housing prices in major cities, HN HCM x2 those of in the countryside  
+  
+-> Most people/ Young people cannot afford to buy a house or even rent an accommodation.
+
+
+Well, several viable solutions should be taken into account in order to mitigate existing housing problems, such as high accommodation prices.  
+  
+But I believe that relocating some of large companies and businesses, along with their workers to rural areas is the most effective measure.  
+  
+This would immedately reduce the number of residents and lower the demand for housing, thereby driving property costs down.  
+  
+Although the government would need to spend a significant amount of money on this solution, I believe the long-term benefits would outweigh the costs. / I believe that it would definitely worth the money / I believe that it would definitely a worthwhile investment.
+
+![[Pasted image 20260727212120.png]]Well, I'm no expert on this, but I guess traditional cars would see some major changes.  
+  
+My first prediction is that people who are environmentally conscious/aware would switch to electric cars because they would reduce the amount of CO2 released to the atmosphere, thereby mitigating air pollution.  
+  
+  
+Another possibility is that  self-driving cars / automated cars / self-operated cars.
+
+
+to able to afford living expenses
+that's the main draw

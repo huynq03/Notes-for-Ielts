@@ -66,3 +66,10 @@ reoffend : được thả
 - Many criminals reoffend after they have been punished. (1st part )    
 - Why do some people continue to commit crime after they have been punished? (2nd part)  
 - What measures can be taken to tackle this problem?  (2nd part)
+ABOUT + O + V_ING/V3
+
+
+
+# Conclusion
+
+To conclusion 
