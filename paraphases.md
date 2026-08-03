@@ -9,3 +9,16 @@
 | most popular exhibits          | **most popular**          | exhibits in museum  |
 | largest in the country         | **largest**, **country**  | of its kind         |
 | contents relocated             | **relocated**             | some contents       |
+> **Yeah, but...**
+
+> **No...**
+
+> **Though that's not really an issue.**
+
+> **But we need to...**
+
+> **It would be for this experiment, though.**
+
+> **It's only 5%, actually.**
+
+**"Have a word with someone"** :  ==to talk to a person briefly, often to discuss a problem, give advice, or tell them not to do something wrong==
