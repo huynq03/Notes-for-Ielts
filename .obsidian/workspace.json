@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8abe5575255d59",
+        "id": "0eecfa5e3abec65e",
         "type": "tabs",
         "children": [
           {
-            "id": "bffd4f0e570511a5",
+            "id": "ac0b7b87c32220cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 2.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 2"
+              "title": "Map"
             }
           },
           {
-            "id": "6c98577832338642",
+            "id": "9ecf43cdc5cd34f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buổi 1.md",
+                "file": "Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buổi 1"
-            }
-          },
-          {
-            "id": "286bf3dc8c05d633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buổi 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buổi 1"
-            }
-          },
-          {
-            "id": "6e792a2be214f940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Part 2 - History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 2 - History"
-            }
-          },
-          {
-            "id": "070d957508dd14b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Part 2 - Law.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 2 - Law"
-            }
-          },
-          {
-            "id": "469a6945dad1034a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Part 2  - App.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 2  - App"
+              "title": "Logs"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,25 +200,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "469a6945dad1034a",
+  "active": "9ecf43cdc5cd34f6",
   "lastOpenFiles": [
-    "Part 2 - Law.md",
-    "Part 2  - App.md",
-    "Part 2 - Person.md",
-    "Part 2 - Place.md",
-    "Part 3.md",
-    "Process.md",
-    "Phrase.md",
-    "Task 1 - Table.md",
-    "Task 2.md",
-    "Tracking.md",
-    "Part 2 - History.md",
-    "Buổi 3.md",
-    "paraphases.md",
+    "Logs.md",
+    "Logs.md",
     "Map.md",
+    "Buổi 3.md",
+    "Phrase.md",
+    "Part 2 - Law.md",
+    "Part 2 - History.md",
+    "Buổi 1.md",
+    "Tracking.md",
+    "Task 2.md",
+    "Task 1 - Table.md",
+    "Process.md",
+    "Part 3.md",
+    "Part 2 - Person.md",
+    "paraphases.md",
+    "Part 2  - App.md",
+    "Part 2 - Place.md",
     "Global Warming-Climate Change.md",
     "Buổi 2.md",
-    "Buổi 1.md",
     "Pasted image 20260730113606.png",
     "Pasted image 20260729204138.png",
     "Pasted image 20260729204041.png",
