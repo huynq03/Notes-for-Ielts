@@ -7,17 +7,6 @@ target:
   Writing: 6
 ---
 
-# IELTS August 2026 Tracker
-
-
-## 🎯 Goal
-
-| Skill | Current | Target |
-|---|---|---|
-| Listening | 5.0 | 7.0 |
-| Reading | 5.5-6.0 | 7.0 |
-| Writing | 5.0 | 6.0 |
-
 
 ---
 
@@ -45,19 +34,23 @@ target:
 ### Afternoon (3 hours)
 
 ### 📖 Reading (90 min)
-
-- [ ] Reading passage practice
-- [ ] Check answers
-- [ ] Analyse mistakes
-
-
+Cam 17 tets 3 passage 2
+- [x] Reading passage practice 
+- [x] Check answers
+- [x] Analyse mistakes
+11/13
+- sai 1 câu do copy thừa dấu ,
+- sai 1 câu do kiêms sai thông tin
+- 
+20p làm bài + 30p chữa
 ### 🎧 Listening (90 min)
 
-- [ ] Listening practice
-- [ ] Check answers
-- [ ] Transcript analysis
-- [ ] Dictation
-
+- [x] Listening practice CAM3/ test3/section 3
+- [x] Check answers
+- [x] Transcript analysis
+- [x] Dictation
+- [ ] https://dailydictation.com/exercises/ielts-listening/cam13-test-3-part-3.631/listen-and-type
+ Answers : 3/10
 
 ---
 
@@ -65,12 +58,12 @@ target:
 
 ### ✍️ Writing (90 min)
 
-- [ ] Task 2 essay
+- [x] Task 2 essay
 
-
+Opinion hoc cach viet dang nay
 ### 📚 Vocabulary (60 min)
 
-- [ ] Study vocabulary
+- [x] Study vocabulary
 
 
 ---
