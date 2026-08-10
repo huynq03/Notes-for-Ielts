@@ -29,7 +29,7 @@ target:
 # Weekly Schedule
 
 
-## Monday
+## 06/08
 
 ### Afternoon (3 hours)
 
@@ -68,7 +68,7 @@ Opinion hoc cach viet dang nay
 
 ---
 
-# Tuesday
+# 07/08
 
 
 ## Afternoon (3 hours)
@@ -82,8 +82,9 @@ Opinion hoc cach viet dang nay
 
 ### 🎧 Listening (90 min)
 
-- [ ] Listening section practice
-- [ ] Transcript analysis
+- [x] Listening section practice
+- [x] Transcript analysis
+- [ ] dictation
 
 
 ---
@@ -93,7 +94,7 @@ Opinion hoc cach viet dang nay
 
 ### ✍️ Writing (90 min)
 
-- [ ] Task 1 practice
+- [x] Task 2 practice
 
 
 ### 📚 Vocabulary (60 min)
@@ -111,13 +112,13 @@ Opinion hoc cach viet dang nay
 
 ### 📖 Reading
 
-- [ ] Reading practice
+- [x] Reading practice
 
 
 ### 🎧 Listening
 
-- [ ] Listening practice
-- [ ] Dictation
+- [x] Listening practice
+- [x] Dictation
 
 
 ---
@@ -127,12 +128,12 @@ Opinion hoc cach viet dang nay
 
 ### ✍️ Writing
 
-- [ ] Task 2 essay
+- [x] Task 1 essay
 
 
 ### 📚 Vocabulary
 
-- [ ] Study vocabulary
+- [x] Study vocabulary
 
 
 ---

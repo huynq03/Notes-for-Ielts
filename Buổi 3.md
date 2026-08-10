@@ -27,5 +27,25 @@ I definitely prefer taking photos of **scenery**. I love exploring different pla
 - What kinds of music do you like to listen to?
 I'm really into **pop and R&B**. I often listen to my favorite songs right after work or whenever I **go running**. It's a wonderful way to **clear my mind** after a long day.
 - If you could learn a musical instrument, what would it be?
-Even though I have a **hectic schedule** right now, **if I had the opportunity**, I would definitely choose **the piano**. I find its sound **incredibly beautiful and gentle**, which is a great way for me to **unwind and reduce stress**.
-- 
+**Right now, I have a hectic schedule**, but if I had the opportunity, I would definitely choose **the piano**. Since I spend most of my day **working with technical stuff**, playing the piano **after work** would be the best way for me to **relax and unwind**.
+- Has the music that you listen to changed since you were young?
+Yes, definitely. When I was younger, I used to listen to **upbeat pop songs** because they were catchy and fun. But now, as I've grown older, my taste has shifted toward **soft and relaxing music** like R&B, **which helps me unwind** after a long day
+
+## Describe a museum or art gallery that you have visited.
+You should say:
+	when you visited the museum
+	describe the museum
+	how you felt after going there
+And describe your experience of the visit.
+
+So today I’d like to talk about a visit to the **Vietnam Military History Museum in Hanoi**, which I took with my university buddies a few months ago.
+
+Back then, we had just finished our graduation project at university, and everyone was feeling completely exhausted. We decided to take a short break after such a hectic schedule to recharge our batteries and blow off steam, so visiting this famous museum seemed like a great choice.
+
+The museum is located in Hanoi and is well-known for its massive space. It shows real planes, tanks, and big weapons from the past, plus some modern screens. The whole layout is very spacious and user-friendly.
+
+One thing that surprised me was how huge the outside area was. At first, I was a bit **slow on the uptake** with all the detailed historical timelines, but as my friends and I started exploring the big vehicles up close, we eventually **hit our stride**. We spent hours walking around, taking photos, and discussing how those machines operated.
+
+After the visit, I felt both proud and refreshed. It was not only a fantastic way for us to unwind after a stressful period at university, but it also helped me **expand my knowledge** about history. Overall, it was a super memorable experience with my close friends.
+
+
