@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 2 Opinion.md",
+                "file": "paraphases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 2 Opinion"
+              "title": "paraphases"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "046d395dbfc763ec",
   "lastOpenFiles": [
+    "Task 2 Opinion.md",
     "Part 3.md",
     "Buổi 3.md",
     "Logs.md",
@@ -194,7 +195,6 @@
     "Bar chart.md",
     "images/Pasted image 20260808234825.png",
     "paraphases.md",
-    "Task 2 Opinion.md",
     "Section 3.md",
     "Map.md",
     "Part 2 - History.md",

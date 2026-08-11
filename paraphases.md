@@ -55,3 +55,10 @@
     → Có một lý lẽ thuyết phục ủng hộ việc sử dụng phương tiện công cộng thường xuyên hơn.
 **might be the case : có lẽ vậy**
 **be opposed to + noun / V-ing** = phản đối điều gì / phản đối việc làm gì.
+
+
+excessive expense :   chi phí quá mức === ==neither prohibitively== high
+prohibitively : cao đến mức ko thể chi trả
+
+business cluster : cụm doanh nghiệp
+workers and firms : công nhân và doanh nghiệp
