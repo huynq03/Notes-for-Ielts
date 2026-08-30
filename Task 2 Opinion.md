@@ -157,3 +157,49 @@ Danh sách của bạn tốt, nhưng nếu mục tiêu là 6.5–7 thì mình s�
 > **change their driving habits → discourage unnecessary car journeys**
 
 > **traffic congestion → alleviate congestion**
+
+
+
+**_We cannot help everyone in the world that needs help, so we should only be concerned with our own communities and countries. To what extent do you agree or disagree with this statement?_**
+
+Disagree
+
+Intro :
+**In this day and age, humanitarian problems have become a matter of great concern to the general public. Although it is impossible to support all people around the word, this does not mean that we should merely be concerned with our own society and nations.**
+Body 1 : 
+main idea
+sp1 : 
+First, since / by / in order to..., S + V . 
+For example, S + V, which + RESULT.
+sp2 : Second / In addition, S + V because/as...
+On the plus side : ve mat tich cuc
+Body 2 :
+sp1
+In fact / Therefore, S + V, thereby/resulting in/ leading to/ + RESULT.
+Conclusion
+
+## cause → result
+which + V ...
+which results in + N
+which leads to + N
+thereby + V-ing
+resulting in + N
+therefore, S + V
+This means that + clause
+This + V ...
+
+
+intend to : co y dinh 
+
+**prioritise people** ❌ → **prioritise the needs of people** ✅  
+**information of people** ❌ → **information about people** ✅  
+**people who are in poverty** △ → **people living in poverty** ✅
+
+Inevitable : ko the tranh khoi
+ake that into consideration before : v-ing : can nhac truoc khi 
+- We have to **take that into consideration** before **isolating** and **criticising** the investment banks too harshly
+take advantage of : tan dung, loi dung ai do
+- people were taken advantage of : nguoi bi loi dung
+never made to stop : không bao giờ bị buộc phải dừng lại
+could not control their greed : ko the kiem soat long them
+ 

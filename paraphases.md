@@ -62,3 +62,6 @@ prohibitively : cao đến mức ko thể chi trả
 
 business cluster : cụm doanh nghiệp
 workers and firms : công nhân và doanh nghiệp
+
+
+complied from 
