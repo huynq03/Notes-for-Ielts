@@ -190,6 +190,7 @@ This + V ...
 
 
 intend to : co y dinh 
+a key cause of
 
 **prioritise people** ❌ → **prioritise the needs of people** ✅  
 **information of people** ❌ → **information about people** ✅  
@@ -202,4 +203,10 @@ take advantage of : tan dung, loi dung ai do
 - people were taken advantage of : nguoi bi loi dung
 never made to stop : không bao giờ bị buộc phải dừng lại
 could not control their greed : ko the kiem soat long them
- 
+## Intro 
+there have been a growing trend towards
+has been receiving a great deal of media attention due to
+for a variety of purposes
+
+by, since, in order to
+One of the benefits is 
